@@ -39,4 +39,5 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) f
 
 ## Credits
 
+- Fork of [Druxorey's Startpage](https://github.com/druxorey/startpage).
 - Inspired from [Fxzii Startpage](https://github.com/Fxzzi/startpage).
